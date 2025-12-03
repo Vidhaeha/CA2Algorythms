@@ -1,24 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Common">
-      <UniqueIdentifier>e7e07ece-0867-4bec-973a-9fa61f9e1e7c</UniqueIdentifier>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{40465782-00cc-4852-a935-407987496e08}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Assets">
-      <UniqueIdentifier>56765641-eb99-40a3-96f7-1df40cde58c4</UniqueIdentifier>
-      <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{301fb3ea-30ca-49a4-b76d-6f1ebf1d7dc9}</UniqueIdentifier>
     </Filter>
-    <Image Include="Assets\Logo.scale-100.png">
-      <Filter>Assets</Filter>
-    </Image>
-    <Image Include="Assets\SmallLogo.scale-100.png">
-      <Filter>Assets</Filter>
-    </Image>
-    <Image Include="Assets\StoreLogo.scale-100.png">
-      <Filter>Assets</Filter>
-    </Image>
-    <Image Include="Assets\SplashScreen.scale-100.png">
-      <Filter>Assets</Filter>
-    </Image>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3cc8d7df-cd7c-45c2-be0c-8a92fa02ae22}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
